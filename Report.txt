@@ -1,0 +1,32 @@
+Title
+
+Computational Analysis of Bacterial Growth Under Antibiotic Stress
+
+Abstract
+
+This project analyzes the growth pattern of E. coli under the presence and absence of ampicillin using computational modeling. Linear regression and exponential models were applied to understand bacterial dynamics.
+
+Introduction
+
+Bacterial growth typically follows exponential or logistic patterns. Antibiotics such as ampicillin inhibit bacterial growth. This project simulates and analyzes these effects using Python.
+
+Methods
+Simulated OD600 data
+Visualization using matplotlib
+Linear regression using scikit-learn
+Log transformation for exponential modeling
+Results
+Growth increased significantly without antibiotic
+Growth decreased with antibiotic
+Exponential models better matched biological trends
+Discussion
+
+Linear regression provides a basic approximation, but exponential growth and decay models better represent bacterial behavior under different conditions.
+
+Conclusion
+
+Computational modeling helps simulate and understand biological processes such as bacterial growth and antibiotic response.
+
+Limitations
+Dataset is simulated
+Real biological data may show more variation
