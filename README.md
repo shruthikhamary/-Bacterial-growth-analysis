@@ -25,10 +25,6 @@ Results
 Files
 - `analysis.txt` – Python code
 - `Report.txt` – Explanation of results
-- `README.md` – Project documentation
-
-## 🔗 Project Link
-(Add your GitHub link here)
-
-## 👩‍🔬 Author
+- `README.md` – Project documentatiion
+- 
 Shruthikha (BSc Biotechnology)
