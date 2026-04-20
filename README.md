@@ -23,8 +23,9 @@ Results
 - Growth rate significantly reduces with antibiotic treatment
 
 Files
-- `analysis.txt` – Python code
-- `Report.txt` – Explanation of results
-- `README.md` – Project documentatiion
-- 
+- [Analysis Code](analysis.py)-python code
+- [Report](Report.txt)-report
+- [README](README.md)-readme
+- ![Growth](growth_plot.png)-graph image
+
 Shruthikha (BSc Biotechnology)
